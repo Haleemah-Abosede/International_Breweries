@@ -42,11 +42,15 @@ An increase in quantity sold does not necessarily increase the profit generated 
 
 ### Analysis and Findings
 #### Product Performance:
-Castle Lite performed best in terms of profit generated (34,606,980) while hero had the highest number of quantities sold (129,060). Jones proved to be the best sales rep generating a total of 18,770,830 in profit from the sale of 157,880 products. 
+Castle Lite performed best in terms of profit generated (34,606,980) while hero had the highest number of quantities sold (129,060). Jones proved to be the best sales rep generating a total of 18,770,830 in profit from the sale of 157,880 products.
+
+
 #### Geographic Trends:
 Castle lite has the highest profit across the 6 regions followed by Budweiser. Senegal sold the highest quantities of hero (26, 632), castle lite (25,974) and beta malt (25, 625), trophy (25, 743), eagle lager (25, 872) and Budweiser (26, 153) were the highest sold in Nigeria while Ghana sold the highest quantity of grand malt (25, 615)
 
 ### Visualization
+![intBreweries_BI_1](https://github.com/user-attachments/assets/6dbd67d7-22e3-4bf5-be84-117f81fad7a2)
+![intBreweries_BI_2](https://github.com/user-attachments/assets/c1388853-77f2-4b4c-a6f8-996670a04899)
 
 This dashboard includes key metrics such as monthly sales, top products, and regional sales distribution.
 
