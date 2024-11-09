@@ -14,8 +14,10 @@
 This project analyses data on breweries brands to uncover key factors impacting product performance and revenue growth. By leveraging Excel, SQL, and Power BI, this analysis provides actionable insights for the sales team and strategic planners.
 
 ### Data Sources
-Source: Incubator Hub Data Analysis Class International Breweries data 
-Description: Contains details of sales reps for 7 brewery brands including cost, profit and demographic information, with 1047 records across 13 columns.
+#### Source:
+ Incubator Hub Data Analysis Class International Breweries data 
+#### Description: 
+Contains details of sales reps for 7 brewery brands including cost, profit and demographic information, with 1047 records across 13 columns.
 
 ### Tools and Technologies Used
 -	Microsoft Excel: For initial data cleaning, analysis, and quick calculations.
